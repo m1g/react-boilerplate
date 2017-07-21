@@ -1977,10 +1977,10 @@ eval("\n\nvar React = __webpack_require__(5);\n\nvar About = function About(prop
 
 /***/ }),
 /* 274 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
 "use strict";
-eval("\n\nvar React = __webpack_require__(5);\n\nvar Examples = function Examples(props) {\n  return React.createElement(\n    'h3',\n    null,\n    'Examples Component'\n  );\n};\n\nmodule.exports = Examples;//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9hcHAvY29tcG9uZW50cy9FeGFtcGxlcy5qc3g/NjNlNyJdLCJuYW1lcyI6WyJSZWFjdCIsInJlcXVpcmUiLCJFeGFtcGxlcyIsInByb3BzIiwibW9kdWxlIiwiZXhwb3J0cyJdLCJtYXBwaW5ncyI6Ijs7QUFBQSxJQUFJQSxRQUFRLG1CQUFBQyxDQUFRLENBQVIsQ0FBWjs7QUFFQSxJQUFJQyxXQUFXLFNBQVhBLFFBQVcsQ0FBQ0MsS0FBRCxFQUFXO0FBQ3hCLFNBQ0U7QUFBQTtBQUFBO0FBQUE7QUFBQSxHQURGO0FBR0QsQ0FKRDs7QUFNQUMsT0FBT0MsT0FBUCxHQUFpQkgsUUFBakIiLCJmaWxlIjoiMjc0LmpzIiwic291cmNlc0NvbnRlbnQiOlsidmFyIFJlYWN0ID0gcmVxdWlyZSgncmVhY3QnKVxuXG52YXIgRXhhbXBsZXMgPSAocHJvcHMpID0+IHtcbiAgcmV0dXJuIChcbiAgICA8aDM+RXhhbXBsZXMgQ29tcG9uZW50PC9oMz5cbiAgKVxufVxuXG5tb2R1bGUuZXhwb3J0cyA9IEV4YW1wbGVzO1xuXG5cblxuLy8gV0VCUEFDSyBGT09URVIgLy9cbi8vIC4vYXBwL2NvbXBvbmVudHMvRXhhbXBsZXMuanN4Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///274\n");
+eval("throw new Error(\"Module build failed: SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag (6:4)\\n\\n\\u001b[0m \\u001b[90m 4 | \\u001b[39m  \\u001b[36mreturn\\u001b[39m (\\n \\u001b[90m 5 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33mh3\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33mExamples\\u001b[39m\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mh3\\u001b[39m\\u001b[33m>\\u001b[39m\\n\\u001b[31m\\u001b[1m>\\u001b[22m\\u001b[39m\\u001b[90m 6 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33mh3\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33mWelcome\\u001b[39m to the examples page\\u001b[33m!\\u001b[39m\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mh3\\u001b[39m\\u001b[33m>\\u001b[39m\\n \\u001b[90m   | \\u001b[39m    \\u001b[31m\\u001b[1m^\\u001b[22m\\u001b[39m\\n \\u001b[90m 7 | \\u001b[39m  )\\n \\u001b[90m 8 | \\u001b[39m}\\n \\u001b[90m 9 | \\u001b[39m\\u001b[0m\\n\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIyNzQuanMiLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///274\n");
 
 /***/ })
 /******/ ]);
