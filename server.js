@@ -1,8 +1,8 @@
-let express = require('express');
+var express = require('express');
 
 // Create our app
-let app = express();
-const port = process.env.PORT || 3000;
+var app = express();
+const PORT = process.env.PORT || 3000;
 
 app.use(function (req, res, next) {
   if (req.headers['x-forwarded-proto'] === 'http') {
@@ -12,6 +12,18 @@ app.use(function (req, res, next) {
   }
 });
 
-app.listen(port, function() {
-  console.log('Express server is up on port ' + port)
+app.listen(PORT, function() {
+  console.log('Express server is up on port ' + PORT)
 })
+
+// let path = require('path');
+//
+// app.use(express.static(path.join(__dirname, 'public')));
+//
+// app.get('/*', function(req, res) {
+//   res.sendFile('index.html', {root: path.join(__dirname, 'public')});
+// });
+//
+// app.listen(3000, function(){
+//   console.log('Express server is up on port 3000');
+// })
