@@ -10,6 +10,10 @@ var Examples = require('Examples');
 // Load foundation
 require('style-loader!css-loader!foundation-sites/dist/foundation.min.css')
 $(document).foundation();
+
+// App css
+require('style-loader!css-loader!applicationStyles')
+
 // This allows react to render in the browser. It's attached to the Id 'app' in the index
   ReactDOM.render(
     // history: Tells React we want a # followed by the path to maintain routes for the app
